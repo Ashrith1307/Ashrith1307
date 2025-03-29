@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashrith1307
-- 👀 I’m interested in HTML,CSS,PYHTON
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in WEBDEV,PROBLEM SOLVING
+- 🌱 I’m currently studying Data Science Degree at CMRCET
 - 📫 How to reach me--devarapallyashrithreddy@gmail.com
 
 <!---
