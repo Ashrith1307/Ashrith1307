@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashrith1307
 - 👀 I’m interested in WEBDEV,PROBLEM SOLVING
 - 🌱 I’m currently studying Data Science Degree at CMRCET
-- 📫 How to reach me--devarapallyashrithreddy@gmail.com
+- 📫 How to reach me : devarapallyashrithreddy@gmail.com
 
 <!---
 Ashrith1307/Ashrith1307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
