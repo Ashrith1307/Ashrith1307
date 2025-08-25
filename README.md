@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashrith1307
+- 👋 Hi, I’m @Devarapally Ashrith Reddy
 - 👀 I’m interested in WEBDEV,PROBLEM SOLVING
 - 🌱 I’m currently studying Data Science Degree at CMRCET
 - 📫 How to reach me : devarapallyashrithreddy@gmail.com
